@@ -24,8 +24,7 @@ If you have an application you are interested in developing or a problem that ne
 
 
 ## GitHub Stats
-
-[![Precious Imoniakemu's github stats](https://github-readme-stats.vercel.app/api?username=preciousimo&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/preciousimo/github-readme-stats)
+[![Precious Imoniakemu's github stats](https://github-readme-stats.vercel.app/api?username=preciousimo&include_all_commits,stars,issues&count_private=false&show_icons=true&theme=tokyonight)](https://github.com/preciousimo/github-readme-stats)
 <br />
 
 
