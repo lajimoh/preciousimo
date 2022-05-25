@@ -23,8 +23,15 @@ If you have an application you are interested in developing or a problem that ne
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preciousimo" alt="preciousimo" /> </p>
 
 
-## GitHub Stats
-[![Precious Imoniakemu's github stats](https://github-readme-stats.vercel.app/api?username=preciousimo&include_all_commits,stars,issues&count_private=false&show_icons=true&theme=tokyonight)](https://github.com/preciousimo/github-readme-stats)
+<br />
+
+## Github Stats
+
+| <a href="https://github.com/preciousimo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Preciousimo&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Preciousimo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preciousimo&layout=compact&theme=aura&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=preciousimo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   <a href="http://www.github.com/chelsea-banke"><img src="https://activity-graph.herokuapp.com/graph?username=preciousimo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <br />
 
 
