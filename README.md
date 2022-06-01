@@ -1,7 +1,7 @@
 # <a href = http://precious-portfolio.s3-website-us-east-1.amazonaws.com/> Precious Imoniakemu</a> 
 Full Stack Developer and AI enthusiast focused on Python/Django and Bootstrap, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
 
-<!-- My tech stack - Django, DjangoRestFramework, Postgresql/Mysql, HTML, CSS, JavaScript, Bootstrap, git, AWS, Heroku. -->
+My tech stack - Django, DjangoRestFramework, Postgresql/Mysql, HTML, CSS, JavaScript, Bootstrap, git, AWS, Heroku.
 
 - 🔭 I’m currently working on a MedTech Application
 - 🌱 I’m currently learning clean architecture 
