@@ -3,7 +3,7 @@ Full Stack Developer and AI enthusiast focused on Python/Django and Bootstrap, H
 
 My tech stack - Django, DjangoRestFramework, Postgresql/Mysql, HTML, CSS, JavaScript, Bootstrap, git, AWS, Heroku.
 
-- 🔭 I’m currently working on a MedTech Application
+- 🔭 I’m currently working on a Custom Inbox System
 - 🌱 I’m currently learning clean architecture 
 
 If you have an application you are interested in developing or a problem that needs solving feel free to get in touch.
